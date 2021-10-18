@@ -29,6 +29,11 @@ if(params$download_material == TRUE){
   }
 ```
 
+- Os **pacotes necessários** no curso e o código para instalação estão disponíveis [neste link](https://github.com/curso-r/main-pacotes#pacotes-necess%C3%A1rios).
+
+- A lista de softwares necessários está disponível  [neste link](https://curso-r.github.io/main-pacotes/#pr-requisitos)
+
+
 - Nosso blog: [https://curso-r.com/blog/](https://curso-r.com/blog/)
 
 - Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e [Zen do R](https://curso-r.github.io/zen-do-r/)
@@ -83,6 +88,18 @@ tibble::tibble(
 ) %>%
   dplyr::filter(!stringr::str_detect(nome, "resolucao_")) %>% 
   dplyr::select(exercicio) %>% 
+  knitr::kable()
+```
+
+## Resolução de exercícios 
+
+```{r}
+tibble::tibble(
+  arquivos = CursoRutils:::list_github_files(params$main_repo, "resolucao_exercicios/", ".R"),
+  link = paste0("https://curso-r.github.io/", params$main_repo, "/", arquivos),
+  resolucao = glue::glue("[{arquivos}]({link})")
+) %>%
+  dplyr::select(resolucao) %>% 
   knitr::kable()
 ```
 

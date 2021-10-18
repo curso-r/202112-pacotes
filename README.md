@@ -3,6 +3,13 @@
 
 ## Informações importantes
 
+-   Os **pacotes necessários** no curso e o código para instalação estão
+    disponíveis [neste
+    link](https://github.com/curso-r/main-pacotes#pacotes-necess%C3%A1rios).
+
+-   A lista de softwares necessários está disponível [neste
+    link](https://curso-r.github.io/main-pacotes/#pr-requisitos)
+
 -   Nosso blog: <https://curso-r.com/blog/>
 
 -   Nossos livros: [Ciência de Dados em R](https://livro.curso-r.com/) e
@@ -37,6 +44,16 @@ Fora do horário de aula ou monitoria:
 | [exercicios/03-exercicio-funcao-desafio.R](https://curso-r.github.io/main-pacotes/exercicios/03-exercicio-funcao-desafio.R) |
 | [exercicios/04-exercicio-testes.R](https://curso-r.github.io/main-pacotes/exercicios/04-exercicio-testes.R)                 |
 | [exercicios/05-exercicio-testes.R](https://curso-r.github.io/main-pacotes/exercicios/05-exercicio-testes.R)                 |
+
+## Resolução de exercícios
+
+| resolucao                                                                                                                                               |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [resolucao_exercicios/01-exercicio-funcao-res.R](https://curso-r.github.io/main-pacotes/resolucao_exercicios/01-exercicio-funcao-res.R)                 |
+| [resolucao_exercicios/02-exercicio-funcao-2-res.R](https://curso-r.github.io/main-pacotes/resolucao_exercicios/02-exercicio-funcao-2-res.R)             |
+| [resolucao_exercicios/03-exercicio-funcao-desafio-res.R](https://curso-r.github.io/main-pacotes/resolucao_exercicios/03-exercicio-funcao-desafio-res.R) |
+| [resolucao_exercicios/04-exercicio-testes-res.R](https://curso-r.github.io/main-pacotes/resolucao_exercicios/04-exercicio-testes-res.R)                 |
+| [resolucao_exercicios/05-exercicio-testes-res.R](https://curso-r.github.io/main-pacotes/resolucao_exercicios/05-exercicio-testes-res.R)                 |
 
 ## Trabalhos finais premiados
 
