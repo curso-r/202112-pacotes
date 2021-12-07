@@ -3,6 +3,10 @@
 
 ## Informações importantes
 
+-   [Clique
+    aqui](https://github.com/curso-r/main-pacotes/raw/master/material_do_curso.zip)
+    para baixar o material do curso.
+
 -   Os **pacotes necessários** no curso e o código para instalação estão
     disponíveis [neste
     link](https://github.com/curso-r/main-pacotes#pacotes-necess%C3%A1rios).
@@ -65,10 +69,25 @@ Referências extras comentadas nas aulas, ou materiais que comentamos
 quando tiramos dúvidas (não necessariamente são relacionadas com o
 conteúdo da aula).
 
-| Aula | Tema        | Descrição                                             |
-|-----:|:------------|:------------------------------------------------------|
-|    0 | Referências | [Livro Zen do R](https://curso-r.github.io/zen-do-r/) |
-|    0 | Referências | [Livro R Packages](https://r-pkgs.org/)               |
+| Aula | Tema                    | Descrição                                                                                                                          |
+|-----:|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+|    0 | Referências             | [Livro Zen do R](https://curso-r.github.io/zen-do-r/)                                                                              |
+|    0 | Referências             | [Livro R Packages](https://r-pkgs.org/)                                                                                            |
+|    1 | Dúvidas                 | [devtoolbox - ferramenta para criar uma visualização das dependências](https://github.com/martinctc/devtoolbox)                    |
+|    1 | Licenças                | [Licenças Creative Commons](https://br.creativecommons.net/licencas/)                                                              |
+|    1 | Licenças                | [Choose a license - ajuda a escolher a licença](https://choosealicense.com/)                                                       |
+|    1 | Boas práticas           | [Tidyverse Style Guide](https://principles.tidyverse.org/)                                                                         |
+|    1 | Pacotes                 | [Material de workshop sobre desenvolvimento de pacotes por Jenny Bryan](https://github.com/jennybc/pkg-dev-tutorial)               |
+|    1 | Funções                 | [Capítulo sobre Funcões - Livro R for Data Science](https://r4ds.had.co.nz/functions.html)                                         |
+|    1 | Dúvidas                 | [Post: Desvendando erros: Entendendo mensagens de erro comuns em R.](https://blog.curso-r.com/posts/2021-03-29-desvendando-erros/) |
+|    1 | Referências             | [Livro Ciência de Dados em R](https://livro.curso-r.com/)                                                                          |
+|    1 | Pacotes                 | [Siglas de autoria para o DESCRIPTION](https://r-pkgs.org/description.html#author)                                                 |
+|    1 | Dúvidas                 | [Pacote reprex - Exemplos reprodutíveis](https://reprex.tidyverse.org/)                                                            |
+|    1 | Documentação            | [Pacote datapasta - colar textos como vetores](https://milesmcbain.github.io/datapasta/)                                           |
+|    1 | Dúvidas                 | [Pacote installr - para Windows](https://github.com/talgalili/installr)                                                            |
+|    1 | Referências             | [Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/package-development.pdf)                                            |
+|    1 | Tirar dúvidas           | [Video curso sobre o pacote Reprex](https://www.youtube.com/watch?v=IxlGYVnaGXk)                                                   |
+|    1 | Repositórios de pacotes | [rOpenSci](https://ropensci.org/packages/all/)                                                                                     |
 
 ## Redes sociais da Curso-R
 
