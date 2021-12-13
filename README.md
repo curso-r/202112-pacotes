@@ -88,6 +88,7 @@ conteúdo da aula).
 |    1 | Referências             | [Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/package-development.pdf)                                            |
 |    1 | Tirar dúvidas           | [Video curso sobre o pacote Reprex](https://www.youtube.com/watch?v=IxlGYVnaGXk)                                                   |
 |    1 | Repositórios de pacotes | [rOpenSci](https://ropensci.org/packages/all/)                                                                                     |
+|    1 | Funções                 | [Post sobre os … em funções - Dots](https://blog.curso-r.com/posts/2021-12-03-tutorial-dots/)                                      |
 
 ## Redes sociais da Curso-R
 
