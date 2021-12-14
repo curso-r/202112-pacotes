@@ -4,8 +4,8 @@ params:
   main_repo: "main-pacotes"
   turma: "202112-pacotes"
   nome_curso: "Pacotes"
-  num_aula: 1
-  download_material: TRUE # Deixe TRUE se quiser que tenha um link
+  num_aula: 3
+  download_material: FALSE # Deixe TRUE se quiser que tenha um link
   # para baixar o zip do material
 ---
 
@@ -65,13 +65,16 @@ tibble::tibble(
 
 ## Scripts utilizados em aula
 
+
 ```{r}
+
+#https://github.com/curso-r/202112-pacotes/tree/main/exemplos_de_aula
 pasta <- "exemplos_de_aula/"
 knitr::kable(
   tibble::tibble(
-    script = list.files(pasta, pattern = ".R$"),
-    link = paste0("https://curso-r.github.io/", params$turma, "/", pasta, script),
-    scrpit = glue::glue("[{script}]({link})")
+    nome = "pacote_exemplo",
+    link = "https://github.com/curso-r/202112-pacotes/tree/main/exemplos_de_aula",
+    script = glue::glue("[{nome}]({link})")
   ) %>%
     dplyr::select(script)
 )
